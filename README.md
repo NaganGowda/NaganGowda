@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack Web Development(Html, css, javascript, python, sql, reactjs, nodejs, expressjs, mongodb)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nagu9591401239@gmail.com 
-- My LinkedIn profile linkedin.com/in/naganagouda-meti
+- My LinkedIn profile (https://www.linkedin.com/in/naganagouda-meti)
 
 <!---
 NaganGowda/NaganGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
